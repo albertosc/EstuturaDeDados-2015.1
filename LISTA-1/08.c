@@ -1,3 +1,5 @@
+// este programa ler o valor do raio do circulo
+
 #include <stdio.h>
 #define PI 3,141592
 
